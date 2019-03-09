@@ -1,4 +1,4 @@
-package com.algorithms;
+package com.sort;
 
 public class SelectionSort {
     public static void selectionSort(int[] a) {

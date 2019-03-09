@@ -1,7 +1,7 @@
-package com.algorithms;
+package com.sort;
 
 public class InsertionSort {
-    public static void insertionSort(int[] a) {
+    private static void insertionSort(int[] a) {
         if (a != null) {
             for (int i = 1; i < a.length; i++) {
                 int temp = a[i];
