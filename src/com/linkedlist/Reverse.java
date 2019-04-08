@@ -1,4 +1,4 @@
-package com.com.linkedlist;
+package com.linkedlist;
 
 public class Reverse {
     private static void reverse(Node head) {
